@@ -23,6 +23,8 @@ To design an end-to-end, automated machine learning pipeline and data storytelli
 
 ---
 
+#### [Click Here for the Dataset: **dunnhumby "The Complete Journey"**](https://www.dunnhumby.com/source-files/)
+
 ## Phase 1: Data Engineering & Secure ETL Pipeline
 
 The pipeline ingested and processed a raw retail transaction ledger consisting of **2,500 households** and over **2.5 million individual purchase logs**.
