@@ -1,11 +1,9 @@
 # Blooms Churn Prediction & Customer Retention Strategy
 
-<div align="center">
-  <img width="500" height="500" alt="image" src="Bloomss.png" />
-</div>
+![Blooms.png](https://github.com/premcharanbadri/Prescriptive_Analytics_Churn_Prediction_Cohort_Retention/blob/cc35f77e67e981ac83e980de7b761c1f927f4301/Blooms.png)
 
 
-## [Tableu Dashboard](https://public.tableau.com/views/ChurnPredictionCustomerRetention/CustomerRetentionStrategy?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+## [Interactive Tableu Dashboard](https://public.tableau.com/views/ChurnPredictionCustomerRetention/CustomerRetentionStrategy?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Background and Overview
 
@@ -17,7 +15,6 @@ To support these decisions, customer transaction and engagement data was analyze
 - **Cohort Retention:** Tracked customer activity over a 52-week window from acquisition to understand where and when customers disengage.
 - **Campaign ROI:** Measured the revenue protected per dollar of retention spend across coupon tiers.
 
-Interactive dashboard: *[Blooms Churn & Retention Dashboard — Tableau Public link]*
 
 ## Executive Summary
 
